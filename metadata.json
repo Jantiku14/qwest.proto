@@ -1,0 +1,6 @@
+{
+  "name": "QWEST",
+  "description": "The Operating System for Nigerian Home Businesses - Connecting Vendors, Riders, and Customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
